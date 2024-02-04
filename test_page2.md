@@ -1,6 +1,6 @@
 # Test Page 2
 
-Content as markdown files, that can be fetched. 
+Fetch content as markdown files. 
 
 <div>This is a div.</div>
 
