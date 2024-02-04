@@ -2,7 +2,7 @@
 
 Content as markdown files, that can be fetched. 
 
-<p>This is a paragraph</p>
+<div>This is a div.</div>
 
 [Read the Docs][docs] 
 
