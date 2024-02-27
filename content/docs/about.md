@@ -7,9 +7,9 @@ sidebar:
 Description of an about page.
 
 ## Resources
-- [readMe] ReadMe
+- [README] README
 - [About] About
 
-[readMe]: ../../readme
+[README]: ../../README.md
 [About]: about.md
-[Getting Started]: gettingStarted.md
+[Getting Started]: getting-started.md
