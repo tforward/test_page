@@ -7,10 +7,10 @@
 [Read the Docs][docs3]
 [Read the Docs2][docs4]
 
-[docs]: .main/content/docs/about
+[docs]: /readme
 
-[docs2]: .test_page/main/content/docs/about
+[docs2]: /readme.md
 
-[docs3]: .main/content/docs/about.md
+[docs3]: ./readme.md
 
-[docs4]: .test_page/main/content/docs/about.md
+[docs4]: https://raw.githubusercontent.com/tforward/test_page/main/README.md
