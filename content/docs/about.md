@@ -1,8 +1,4 @@
----
-title: About
-sidebar: 
-    order: 0
----
+# About
 
 Description of an about page.
 
