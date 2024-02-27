@@ -1,8 +1,8 @@
 # Getting Started
 
 ## Resources
-- [readMe] ReadMe
+- [README] README
 - [About] About
 
-[readMe]: ../../readme
+[README]: ../../README.md
 [About]: about.md
