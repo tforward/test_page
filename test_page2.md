@@ -2,11 +2,11 @@
 
 Fetch content as markdown. 
 
-<div style="border: 1px solid #ccc; padding: 10px; background-color: red;">
+<div style="border: 1px solid #ccc; width: 256px; height: 256px; background-color: red;">
   This is a div.
 </div>
 
-<div style="width: 200px; height: 100px; background-color: green; color: white; display: flex; align-items: center; justify-content: center;">
+<div style="width: 256px; height: 256px; background-color: green;">
   This is another div
 </div>
 
