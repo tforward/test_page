@@ -7,11 +7,11 @@ Fetch content as markdown.
 </div>
 
 <div style="width: 256px; height: 64px; background-color: green;">
-  This is another div
+  This is another div.
 </div>
 
 <div style="width: 256px; height: 64px; background-color: blue;">
-  This is another div
+  This is yet another div.
 </div>
 
 [Read the Docs][docs] 
