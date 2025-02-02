@@ -15,7 +15,7 @@ Fetch content as markdown.
   This is yet another div.
 </div>
 
-<div style="width: 256px; height: 64px; background-color: yellow;">
+<div style="width: 256px; height: 64px; background-color: yellow; color:black;">
   and so is this.
 </div>
 
