@@ -2,6 +2,7 @@
 
 Fetch content as markdown. 
 
+
 <div style="width: 256px; height: 64px; background-color: red;">
   This is a div.
 </div>
@@ -12,6 +13,10 @@ Fetch content as markdown.
 
 <div style="width: 256px; height: 64px; background-color: blue;">
   This is yet another div.
+</div>
+
+<div style="width: 256px; height: 64px; background-color: yellow;">
+  and so is this.
 </div>
 
 [Read the Docs][docs] 
