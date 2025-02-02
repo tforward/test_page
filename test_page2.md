@@ -2,7 +2,7 @@
 
 Fetch content as markdown. 
 
-<div style="border: 1px solid #ccc; width: 256px; height: 256px; background-color: red;">
+<div width: 256px; height: 256px; background-color: red;">
   This is a div.
 </div>
 
